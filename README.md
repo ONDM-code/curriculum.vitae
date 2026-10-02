@@ -5,7 +5,7 @@ Portfolio personnel en une seule page, en HTML et CSS, avec un peu de JavaScript
 ## Sections
 
 - **Accueil** : titre « PORTFOLIO », portrait, liens LinkedIn et GitHub
-- **Moi** : présentation, badge « Étudiante en 2e année », carte de contact
+- **Moi** : présentation, badge « Étudiante en 3e année », carte de contact
 - **Parcours** : éducation, certifications, compétences techniques, expériences détaillées, langues, centres d'intérêts, atouts
 - **Projets** : projets en cours, de 2025 et de 2026
 - **Échangeons** : formulaire de contact
