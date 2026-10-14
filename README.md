@@ -73,9 +73,8 @@ Les polices et les icônes (Font Awesome) sont chargées depuis un CDN : une con
 
 ## Formulaire de contact
 
-Le site n'a pas de serveur : le bouton « Envoyer » ouvre l'application e-mail du visiteur avec l'objet et le message déjà remplis, à destination de `obiangndongdanielamylene@gmail.com`.
+Le site n'a pas de serveur : le bouton « Envoyer » ouvre l'application e-mail du visiteur avec l'objet et le message déjà remplis, à destination de Daniela OBIANG.
 
-Pour recevoir les messages directement, on peut brancher le formulaire sur un service comme Formspree ou Netlify Forms.
 
 ## Mise en ligne
 
@@ -94,6 +93,5 @@ Avec GitHub Pages :
 
 ## Contact
 
-- E-mail : danielandong@icloud.com
 - LinkedIn : [linkedin.com/in/daniela-obiang-ndong](https://linkedin.com/in/daniela-obiang-ndong)
 - GitHub : [github.com/ONDM-code](https://github.com/ONDM-code)
